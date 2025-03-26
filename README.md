@@ -16,6 +16,6 @@ Steps to Check API in Postman :
             ii. To delete select method delete then send request.
             
 Screenshots = Home page : ![Alt text](screenshots/screenshot1.png) 
-              Create Task : ![Alt text](screenshot2.png)
-              Update Task :  ![Alt text](screenshot3.png)
-              About Page :  ![Alt text](screenshot4.png)
+              Create Task : ![Alt text](screenshots/screenshot2.png)
+              Update Task :  ![Alt text](screenshots/screenshot3.png)
+              About Page :  ![Alt text](screenshots/screenshot4.png)
