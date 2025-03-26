@@ -15,7 +15,7 @@ Steps to Check API in Postman :
             i. To update select method put then in body send raw data like this {"title":"jump","description":"jump1"} your data will be updated and you wil get a success message.
             ii. To delete select method delete then send request.
             
-Screenshots = Home page : ![Alt text](./screenshot1.png) 
+Screenshots = Home page : ![Alt text](screenshots/screenshot1.png) 
               Create Task : ![Alt text](screenshot2.png)
               Update Task :  ![Alt text](screenshot3.png)
               About Page :  ![Alt text](screenshot4.png)
